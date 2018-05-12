@@ -1,0 +1,31 @@
+_repo: Reluctant-Genius_28030
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Slesar, Henry
+    birthdate: 1927
+    deathdate: 2002
+    gutenberg_agent_id: '28398'
+    url: http://www.gutenberg.org/2009/agents/28398
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Slesar
+description: It is said that Life crawled up from the slime of the sea-bottoms and
+  became Man because of inherent greatness bred into him before the dawn of time.
+  But perhaps this urge was not as formless as we think.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28030'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: Reluctant Genius
+url: http://www.gutenberg.org/ebooks/28030
